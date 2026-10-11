@@ -10,8 +10,8 @@
 
 I'm a **Senior Software Engineer with 7+ years of experience** 🧑‍💻 building enterprise-grade web applications, cloud-native platforms, and secure RESTful APIs in **healthcare** 🏥 and **fintech** 💳.
 
-- 🔭 Currently at **[UnitedHealth Group](https://www.unitedhealthgroup.com/)**, building **HIPAA-compliant** healthcare platforms, provider portals, and EHR integrations
-- 💳 Previously built **high-volume payment platforms** at **[Square](https://squareup.com/)** and **financial management apps** at **[Brex](https://www.brex.com/)**
+- 🔭 Currently at **UnitedHealth Group**, building **HIPAA-compliant** healthcare platforms, provider portals, and EHR integrations
+- 💳 Previously built **high-volume payment platforms** at **Square** and **financial management apps** at **Brex**
 - ☁️ Turn legacy monoliths into **scalable, event-driven microservices** on **[Azure](https://azure.microsoft.com/)** with **[Docker](https://www.docker.com/)**, **[Kubernetes](https://kubernetes.io/)**, and **[Terraform](https://www.terraform.io/)**
 - 🤖 Build **Generative AI and agentic AI** features: LLM-powered apps, RAG pipelines, and tool-using AI agents
 - 🌱 Currently learning **multi-agent orchestration**, **[MCP](https://modelcontextprotocol.io/)**, and **platform engineering**
@@ -22,8 +22,6 @@ I'm a **Senior Software Engineer with 7+ years of experience** 🧑‍💻 build
 ---
 
 ## 🛠️ Tech Stack
-
-<sub>👆 Click any badge to visit the tool's official site.</sub>
 
 ### 💻 Languages
 [![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
@@ -109,16 +107,6 @@ I'm a **Senior Software Engineer with 7+ years of experience** 🧑‍💻 build
 [![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat-square)](https://microservices.io/)
 [![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-00897B?style=flat-square)](https://learn.microsoft.com/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures)
 [![DDD](https://img.shields.io/badge/Domain--Driven%20Design-5C6BC0?style=flat-square)](https://learn.microsoft.com/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/)
-
----
-
-## 💼 Experience
-
-| 🏢 Company | 👔 Role | 📅 Period | 🎯 Focus |
-|-----------|---------|-----------|----------|
-| 🏥 **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | Senior Software Engineer | 2024 – Present | HIPAA-compliant healthcare apps, EHR integrations, Azure cloud-native microservices |
-| 💳 **[Square](https://squareup.com/)** | Software Engineer | 2020 – 2024 | Enterprise payment platforms, Stripe/PayPal integrations, Kafka event-driven services |
-| 💼 **[Brex](https://www.brex.com/)** | .NET Developer | 2017 – 2020 | Financial management apps, .NET Framework → ASP.NET Core modernization |
 
 ---
 
